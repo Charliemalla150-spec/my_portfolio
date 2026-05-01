@@ -6,8 +6,6 @@
 <meta name="description" content="Sagar - Ethical Hacker & SOC Analyst | Cybersecurity Portfolio">
 <meta name="keywords" content="ethical hacking, SOC analyst, cybersecurity, penetration testing, SIEM">
 <title>Sagar | Cybersecurity Portfolio</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&family=Exo+2:wght@300;400;600&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 :root{
@@ -15,9 +13,9 @@
   --accent:#00d4ff;--accent2:#00ff88;--accent3:#ff6b35;
   --text:#e0f0ff;--text2:#8ab4cc;
   --border:rgba(0,212,255,0.2);
-  --font-mono:'Share Tech Mono',monospace;
-  --font-display:'Rajdhani',sans-serif;
-  --font-body:'Exo 2',sans-serif;
+  --font-mono:'Courier New',monospace;
+  --font-display:'Arial',sans-serif;
+  --font-body:'Arial',sans-serif;
 }
 html{scroll-behavior:smooth;}
 body{background:var(--bg);color:var(--text);font-family:var(--font-body);overflow-x:hidden;}
